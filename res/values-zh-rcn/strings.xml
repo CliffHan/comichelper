@@ -1,0 +1,45 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">漫画助手</string>
+    <string name="drawer_open">打开抽屉</string>
+    <string name="drawer_close">关闭抽屉</string>
+    <string name="action_download">下载</string>
+    <string name="action_settings">设置</string>
+    <string name="pref_download_location">下载目录</string>
+    <string name="pref_download_location_summary">外部存储目录下的下载路径</string>
+    <string name="pref_enable_javascript">打开JavaScript支持</string>
+    <string name="pref_enable_javascript_summary">网页兼容性更好，但安全性降低</string>
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_selectall">全选</string>
+    <string name="title_parse_comic">正在解析漫画</string>
+    <string name="message_wait">请等待 . . .</string>
+    <string name="title_download">下载</string>
+    <string name="message_starting">开始中 . . .</string>
+    <string name="title_select_volumes">选择卷</string>
+    <string name="title_result">结果</string>
+    <string name="message_parse_failed">解析漫画失败, 错误代码=%1$d</string>
+    <string name="title_done">完成</string>
+    <string name="message_adding_queue">正在增加 %1$d/%2$d 图片到下载队列 . . .</string>
+    <string name="message_added_queue">%1$d 张图片已经加入下载队列!</string>
+    <string name="message_parsing_volume">正在解析  %1$s (%2$d/%3$d) . . .</string>
+    <string name="title_error">错误</string>
+    <string name="message_error_volume">解析 %1$s 出错! 错误代码=%2$d!</string>
+    <string name="message_error_parser">解析器出错!</string>
+    
+</resources>

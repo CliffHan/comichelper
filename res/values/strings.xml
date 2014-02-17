@@ -1,0 +1,46 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">ComicHelper</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_download">Download</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_download_location">Download Location</string>
+    <string name="pref_download_location_summary">Directory under external storage</string>
+    <string name="pref_enable_javascript">Enable Javascript</string>
+    <string name="pref_enable_javascript_summary">Better compatibility, Worse security</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_selectall">Select All</string>
+    <string name="title_parse_comic">Parsing Comic</string>
+    <string name="message_wait">Please Wait . . .</string>
+    <string name="title_download">Download</string>
+    <string name="message_starting">Starting . . .</string>
+    <string name="title_select_volumes">Select Volumes</string>
+    <string name="title_result">Result</string>
+    <string name="message_parse_failed">Parse comic failed, lastError=%1$d</string>
+    <string name="title_done">Done</string>
+    <string name="message_adding_queue">Adding %1$d/%2$d pics to download queue. . .</string>
+    <string name="message_added_queue">%1$d pics added to download queue!</string>
+    <string name="message_parsing_volume">Parsing %1$s (%2$d/%3$d) . . .</string>
+    <string name="title_error">Error</string>
+    <string name="message_error_volume">Parsing %1$s error! errno=%2$d!</string>
+    <string name="message_error_parser">Parser error!</string>
+    
+    <!--string name="app_not_available">Sorry, there\'s no web browser available</string-->
+</resources>

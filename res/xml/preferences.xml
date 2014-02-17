@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="DownloadLocation"
+        android:title="@string/pref_download_location"
+        android:summary="@string/pref_download_location_summary"
+        android:defaultValue="/Download" />
+    <CheckBoxPreference
+        android:key="EnableJavascript"
+        android:title="@string/pref_enable_javascript"
+        android:summary="@string/pref_enable_javascript_summary"
+        android:defaultValue="false" />
+</PreferenceScreen>
